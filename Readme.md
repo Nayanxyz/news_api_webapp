@@ -1,0 +1,1 @@
+this app get latest news on Tesla topic 
