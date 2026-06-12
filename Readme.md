@@ -34,6 +34,15 @@ pip install requests
 Configure your credentials:
 Open the scripts and securely input your environment variables (API keys, email, and app password). Note: It is highly recommended to use a .env file instead of hardcoding credentials.
 
+3. **Run the script:**
 
+```Bash
+python main.py
+```
 
+## ⚙️ Configuration
+Topic: Modify the topic variable in main.py (currently set to "tesla") to track any subject of your choice.
 
+Date Range: Adjust the from parameter in the API URL to filter news from a specific date.
+
+Limit: The script currently slices the API response to the top 20 articles ([0:20]). You can modify this integer to increase or decrease email volume.
