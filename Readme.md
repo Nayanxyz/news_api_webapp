@@ -18,5 +18,12 @@ Before you begin, ensure you have the following installed and configured:
 - **NewsAPI Key:** Get a free API key from [NewsAPI.org](https://newsapi.org/).
 - **Gmail App Password:** If using Gmail, you must generate an [App Password](https://myaccount.google.com/apppasswords) (standard account passwords will not work due to security protocols).
 
+## 🚀 Quick Start
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Nayanxyz/news_api_webapp.git
+   cd automated-news-courier
+   ```
 
 
