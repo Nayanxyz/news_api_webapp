@@ -26,4 +26,14 @@ Before you begin, ensure you have the following installed and configured:
    cd automated-news-courier
    ```
 
+2. **Install dependencies:**
+
+```Bash
+pip install requests
+```
+Configure your credentials:
+Open the scripts and securely input your environment variables (API keys, email, and app password). Note: It is highly recommended to use a .env file instead of hardcoding credentials.
+
+
+
 
